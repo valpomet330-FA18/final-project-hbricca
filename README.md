@@ -2,7 +2,7 @@
 Dr. Kevin Goebbert  
 Fall 2018  
 
-### **Due Date: 11 December 2016 at 4:00 pm**  
+### **Due Date: 10 December 2016 at 4:00 pm**  
 ## Objectives
 * Utilize your cumulative computer programming knowledge to answer a question(s) related to meteorology
 
